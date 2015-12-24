@@ -1,3 +1,3 @@
 source 'https://rubygems.org'
 gemspec
-gem 'mnogo', '~> 2.1'
+gem 'mongo', '~> 2.1'
