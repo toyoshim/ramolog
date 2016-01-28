@@ -61,3 +61,4 @@ end
 ## For other languages
 
 - Express / Node.js: [momolog](https://github.com/toyoshim/momolog)
+- http / Golang: [gomolog](https://github.com/toyoshim/gomolog)
